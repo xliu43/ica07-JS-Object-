@@ -13,6 +13,6 @@ C:\Program Files (x86)\Windows Kits\10\References\10.0.15063.0\Windows.Graphics.
 C:\Program Files (x86)\Windows Kits\10\References\10.0.15063.0\Windows.Services.TargetedContent.TargetedContentContract\1.0.0.0\Windows.Services.TargetedContent.TargetedContentContract.winmd
 -emitAnyForUnresolvedTypes
 -outFilePath
-c:\users\xliu43\desktop\js object\app1\app1\bld\debug\winrtrefs\winrtrefs-temp.d.ts
+c:\users\liuraul2003\documents\github\ica07-js-object-\js object\app1\app1\bld\debug\winrtrefs\winrtrefs-temp.d.ts
 -emitDocumentation
 -suppressWarningsForUnresolvedWindowsTypes
